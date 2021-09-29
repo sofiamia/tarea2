@@ -1,0 +1,86 @@
+.rojo{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	background: url(hola.JPEG);
+	width: 1350px;
+	height: 635px;
+}
+.blanco{
+	position: absolute;
+	top: 30px;
+	left: 40px;
+	background: white;
+	width: 350px;
+	height: 150px;
+}
+.morado{
+		position: absolute;
+	top: 30px;
+	left: 390px;
+	background:#D7BDE2;
+	width: 350px;
+	height: 150px;
+}
+.rosado{
+    position: absolute;
+	top: 30px;
+	left: 730px;
+	background: white;
+	width: 350px;
+	height: 150px;	
+}
+.ocu{
+	position: absolute;
+	top: 40px;
+	left: 60px;
+	background: black;
+	width: 320px;
+	height: 120px;
+	transition: all 1s 1s;
+	box-sizing: border-box;
+}
+.ocu:hover{
+	height: 500px;
+	width: 850px;
+	background-size: cover;
+	background:  white;
+	top: 800px;
+	background: url(descarga.JPEG);
+}
+.tar{
+	position: absolute;
+	top: 40px;
+	left: 400px;
+	background: black;
+	width: 320px;
+	height: 120px;
+	transition: all 1s 1s;
+	box-sizing: border-box;
+}
+.tar:hover{
+	height: 500px;
+	width: 850px;
+	background-size: cover;
+	background:  white;
+	top: 800px;
+	background: url(si.JPEG);
+}
+.dejar{
+	position: absolute;
+	top: 40px;
+	left: 750px;
+	background: black;
+	width: 320px;
+	height: 120px;
+	transition: all 1s 1s;
+	box-sizing: border-box;
+}
+.dejar:hover{
+	height: 500px;
+	width: 850px;
+	background-size: cover;
+	background:  white;
+	top: 800px;
+	background: url(bueno.JPEG);
+}
